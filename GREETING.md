@@ -1,4 +1,4 @@
-MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Designers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community of 190+ members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
+MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Designers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community of 240+ members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
 
 We are looking forward to your active contributions to the community while appreciating you following our basic guidelines and Code of Conduct (CoC) [https://github.com/mena-devs/code-of-conduct]:
 
