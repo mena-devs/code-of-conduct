@@ -1,4 +1,4 @@
-MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Engineers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community of 240+ members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
+MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Engineers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community of 360+ members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
 
 We are looking forward to your active contributions to the community while appreciating you following our basic guidelines and Code of Conduct (CoC) [https://github.com/mena-devs/code-of-conduct]:
 
@@ -9,8 +9,14 @@ We are looking forward to your active contributions to the community while appre
 * You are encouraged to introduce yourself in #general channel and get to know members of the community. We discourage posting announcements or employment requests right after joining in.
 * As a result of breaking any of the rules above, a ban will immediately be applied by an admin after internal deliberation and the delivery of a formal and final warning. The ban is permanent and is not up for debate.
 
-Finally, admittance to the group will always remain invitation only. If you wish to invite other people, you can reach out with a private message to one of the 6 active admins (Ayman, Layale, Omar, Bassem, Joe and Constantine) with contact details of the invitee (Full name, and Email address). The inviting party (you) should know the invitee in person and introduce them on Slack (under the #introductions channel) once they accept the invitation and join the group.
+Admittance to the group will always remain invitation only. If you wish to invite other people, you can use our bot `@bosta` to achieve that goal. Send a Direct Message (DM) to `@bosta` with the following as its content: `@bosta help`
+
+Finally, we would like to invite to use and/or contribute to the development of our open source projects:
+
+- (Tilde) [http://menadevs.com/]
+- (Bosta) [https://github.com/mena-devs/bosta]
+- (Open Data) [https://github.com/mena-devs/open_data]
 
 On behalf of the MENA Devs admins
 
-Welcome on board and enjoy your stay!
+Welcome aboard and enjoy your stay!
