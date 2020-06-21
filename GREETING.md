@@ -1,6 +1,6 @@
-MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Engineers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community of 360+ members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
+MENA Devs was first launched in January, 2015 with the purpose of connecting Software Developers, Engineers and Computer Enthusiasts in the MENA region. What started as a Slack group has evolved to become a vibrant community with hundreds of members engaging in daily discussions in software, and web development, tools of the trade, work methodologies and workflows, and technical management styles (to name a few of the popular topics).
 
-We are looking forward to your active contributions to the community while appreciating you following our basic guidelines and Code of Conduct (CoC) [https://github.com/mena-devs/code-of-conduct]:
+We are looking forward to your active contributions to the community while appreciating you following our basic guidelines and [Code of Conduct (CoC)](https://github.com/mena-devs/code-of-conduct):
 
 * Respect other members of the group and let this CoC guide your actions.
 * Do not insult and engage in degrading behaviours towards any member as these actions will not be tolerated.
@@ -13,9 +13,9 @@ Admittance to the group will always remain invitation only. If you wish to invit
 
 Finally, we would like to invite to use and/or contribute to the development of our open source projects:
 
-- (Tilde) [http://menadevs.com/]
-- (Bosta) [https://github.com/mena-devs/bosta]
-- (Open Data) [https://github.com/mena-devs/open_data]
+- [Tilde](http://menadevs.com/)
+- [Bosta](https://github.com/mena-devs/bosta)
+- [Open Data](https://github.com/mena-devs/open_data)
 
 On behalf of the MENA Devs admins
 
